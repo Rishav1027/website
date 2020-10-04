@@ -1,5 +1,6 @@
 Let's Encrypt Website
 =====================
+# Let's secure the world from the black hats,
 
 This is the repository for the main [Let's Encrypt website].
 
@@ -23,7 +24,7 @@ npm install && npm run build && npm test
 
 Contributions welcome.
 
-# Troubleshooting with Hugo
+# Troubleshooting with Hugo (Shoot the problems from here)
 
 If you see the error:
 
